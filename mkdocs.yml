@@ -19,6 +19,9 @@ extra:
   search:
     language: 'jp'
 
+repo_url: https://github.com/satan1a/opendata-for-security
+repo_name: Toky/opendata-for-security
+
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.inlinehilite
