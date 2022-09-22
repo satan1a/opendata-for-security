@@ -1,0 +1,26 @@
+site_name: Opendata for Security
+
+theme:
+  name: 'material'
+  language: 'zh'
+  palette:
+    primary: 'white'
+    accent: 'red'
+  icon:
+  logo: 'assets/logo_white.png'
+  favicon: 'assets/favicon.ico'
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+
+
+extra:
+  search:
+    language: 'jp'
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
