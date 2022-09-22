@@ -10,7 +10,9 @@ The data set categories expected to be provided include: Forward DNS, TCP scan d
 
 ## Original Intention
 
-From infrastructure security to the intersection of network security and data science, samples and data are needed as a foundation. Similar to Rapid7's OpenData project, it provides network-wide infrastructure-related mapping data for risk exposure detection, etc. But Rapid7's OpenData has tightened the authorization account, so it began to think about how to map and maintain open dataset services.
+From infrastructure security to the intersection of network security and data science, samples and data are needed as a foundation. For the OpenData project marked with Rapid7, it provides infrastructure-related mapping data for risk exposure detection, etc.
+
+Rapid7's Open Data project has now tightened up authorized accounts, so this project was originally intended to be an open source alternative to it.
 
 
 
@@ -33,6 +35,10 @@ Data must be used for cybersecurity purposes to improve security outcomes. It ca
 
 
 
+
+
+
+
 >   Chinese Version
 
 ## 概述
@@ -45,7 +51,7 @@ Data must be used for cybersecurity purposes to improve security outcomes. It ca
 
 ## 项目初衷
 
-从基础设施安全到网络安全与数据科学的交叉领域，都需要样本、数据作为基础。类似于Rapid7的OpenData项目，提供全网基础设施相关测绘数据，用于风险暴露面检测等。但Open Data目前已经收紧授权账号，因此开始思考如何测绘和维护开放数据集服务。
+从基础设施安全到网络安全与数据科学的交叉领域，都需要样本、数据作为基础。对标于Rapid7的OpenData项目，提供基础设施相关测绘数据，用于风险暴露面检测等。Rapid7的Open Data项目目前已经收紧授权账号，因此本项目初衷是想作为其的一个开源替代品。
 
 
 
