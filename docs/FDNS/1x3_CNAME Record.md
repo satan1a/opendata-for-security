@@ -28,3 +28,5 @@ The following are examples of data formats:
 | [2022-09-18-17-fdns_cname.json.zip](https://fdns.sgp1.vultrobjects.com/2022-09-18-17-fdns_cname.json.zip) | 2.20 GB | 2022-09-18 |
 | [2022-09-19-17-fdns_cname.json.zip](https://fdns.sgp1.vultrobjects.com/2022-09-19-17-fdns_cname.json.zip) | 2.15 GB | 2022-09-19 |
 | [2022-09-20-17-fdns_cname.json.zip](https://fdns.sgp1.vultrobjects.com/2022-09-20-17-fdns_cname.json.zip) | 1.95 GB | 2022-09-20 |
+| [2022-09-22-17-fdns_cname.json.zip](https://fdns.sgp1.vultrobjects.com/2022-09-22-17-fdns_cname.json.zip) | 2.15 GB | 2022-09-15 |
+| [2022-09-23-17-fdns_cname.json.zip](https://fdns.sgp1.vultrobjects.com/2022-09-23-17-fdns_cname.json.zip) | 2.18 GB | 2022-09-23 |
